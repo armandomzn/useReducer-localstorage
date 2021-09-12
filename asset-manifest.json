@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/useReducer-localstorage/static/css/main.63abab8b.chunk.css",
-    "main.js": "/useReducer-localstorage/static/js/main.0e194746.chunk.js",
-    "main.js.map": "/useReducer-localstorage/static/js/main.0e194746.chunk.js.map",
+    "main.js": "/useReducer-localstorage/static/js/main.971b7c00.chunk.js",
+    "main.js.map": "/useReducer-localstorage/static/js/main.971b7c00.chunk.js.map",
     "runtime-main.js": "/useReducer-localstorage/static/js/runtime-main.500b64f7.js",
     "runtime-main.js.map": "/useReducer-localstorage/static/js/runtime-main.500b64f7.js.map",
     "static/js/2.1fcb0e40.chunk.js": "/useReducer-localstorage/static/js/2.1fcb0e40.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.500b64f7.js",
     "static/js/2.1fcb0e40.chunk.js",
     "static/css/main.63abab8b.chunk.css",
-    "static/js/main.0e194746.chunk.js"
+    "static/js/main.971b7c00.chunk.js"
   ]
 }
